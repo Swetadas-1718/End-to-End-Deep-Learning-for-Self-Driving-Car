@@ -1,6 +1,6 @@
 # End to End Deep Learning for Self Driving Cars
 
-![waymo.jpg](attachment:waymo.jpg)
+<img src = "https://github.com/Swetadas-1718/Self-Driving-Car-End-to-End-Deep-Learning-model/blob/main/waymo.jpg">
 
 Today, we can see fully self-driving cars on the road. Some call it a fad , while some call it a marvel of technology. I know, driverless vehicles is quite an impossible concept to believe in.
 
