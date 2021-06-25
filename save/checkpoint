@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\Users\sweta\OneDrive\Desktop\DL Projects\Self driving cars\Autopilot\save\model.ckpt"
+all_model_checkpoint_paths: "C:\Users\sweta\OneDrive\Desktop\DL Projects\Self driving cars\Autopilot\save\model.ckpt"
