@@ -48,6 +48,8 @@ Our objective is to predict the correct steering angle for self driving car. Her
 
 ## Architecture of the model
 
+<img src= "https://github.com/Swetadas-1718/Self-Driving-Car-End-to-End-Deep-Learning-model/blob/main/cnn-architecture-624x890.png">
+
 - The first layer of the network performs image normalization which helps the GPU processing to be accelerated.
 - The convolutional layers are designed to perform feature extraction, and are chosen empirically through a series of experiments by nvidia.
 - We then use strided convolutions in the first three convolutional layers with a 2×2 stride and a 5×5 kernel, and a non-strided convolution with a 3×3 kernel size in the final two convolutional layers.
